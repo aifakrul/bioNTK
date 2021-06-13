@@ -1,4 +1,4 @@
-# BioNTK Manufacturing Chemical Proportion Prediction and Optimize the prediction accuracy by several Regressors
+# BioNTK Manufacturing Chemical Proportion Prediction and Optimize the prediction accuracy by several Regressors Mentioned Below:
 # LinearRegression
 # RandomForestRegressor
 # KNeighborsRegressor
