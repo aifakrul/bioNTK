@@ -1,4 +1,13 @@
 # BioNTK Manufacturing Chemical Proportion Prediction and Optimize the prediction accuracy by several Regressors
+# LinearRegression
+# RandomForestRegressor
+# KNeighborsRegressor
+# SVMRegressor
+# Ridge_Regression
+# Lasso_Regression
+# ElasticNet_Regression
+
+
 
 # BioNTK Main Dataset for manufacturing: Bio-ink data for ML.xlsx
 # BioNTK Processed Data: dataset_biontek.xlsx
