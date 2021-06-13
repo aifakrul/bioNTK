@@ -1,5 +1,5 @@
 # bionTek
-# Manufacturing Proportion Prediction by several Regressor
+# Manufacturing Chemical Proportion Prediction and Optimize the prediction accuracy by several Regressors
 
 # BioNtek Main Dataset for manufacturing: Bio-ink data for ML.xlsx
 # BioNTek Processed Data: dataset_biontek.xlsx
